@@ -1,13 +1,13 @@
-#Pyfortune: a python fortune program
+# Pyfortune: a python fortune program
 I wanted to add my own fortunes to the fortune program, and writing this seemed simpler than modifying the existing fortune.
 
-##Installation
+## Installation
 * Clone the repo somewhere on your system, maybe in `~/bin/`
 * Edit `myfortunes.txt` to only contain the fortunes you want to see
 * Add `python /path/to/pyfortune.py` to your (bashrc|zshrc|fishrc)
 * Open a new shell to test everything works
 
-##Fortune files
+## Fortune files
 fortune files are in the same format as the original program:
 
 * Start with a fortune
@@ -18,7 +18,7 @@ fortune files are in the same format as the original program:
 
 see `myfortunes.txt` for an example if you do not understand
 
-##TODO
+## TODO
 - [ ] support multiple fortune files
 - [ ] package as python package and distribute via PyPI
 - [ ] pickle fortune files for quicker reading
