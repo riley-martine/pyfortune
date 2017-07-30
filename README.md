@@ -1,5 +1,6 @@
 # Pyfortune: a python fortune program
 I wanted to add my own fortunes to the fortune program, and writing this seemed simpler than modifying the existing fortune.
+Works with python 2 and 3.
 
 ## Installation
 * Clone the repo somewhere on your system, maybe in `~/bin/`
