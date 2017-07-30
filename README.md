@@ -20,7 +20,8 @@ fortune files are in the same format as the original program:
 see `myfortunes.txt` for an example if you do not understand
 
 ## TODO
-- [ ] support multiple fortune files
+- [x] support multiple fortune files
+- [ ] write tests
 - [ ] package as python package and distribute via PyPI
 - [ ] pickle fortune files for quicker reading
 - [ ] test impact of pickling
