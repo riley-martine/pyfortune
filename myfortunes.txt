@@ -3,8 +3,12 @@ Then shalt thou count to three, no more, no less. Three shall be the number thou
 %
 it's great... just remove the duck
 %
+"Do you know what they call 'alternative medicine' that's been proved to work? Medicine." - Tim Minchin, Storm, 2008
+%
 The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
   — Tom Cargill, Bell Labs
+%
+Any sufficiently analyzed magic is indistinguishable from science.
 %
 There is no spoon.
 %
@@ -26,6 +30,8 @@ Life is truly quite absurd, but with a little effort we could make it completely
 Alarm clocks kill dreams.
 %
 Count the seconds it takes to stop thinking about this sentence.
+%
+"Can you make a rock so heavy that you can't lift it?" "Of course, I can do anything. That is what omnipotent means." "Ha! But now there is a thing you can't do, because that rock is too heavy. How do you explain that?" "I will just make myself stronger and then I can lift it up. You could do the same thing with exercise and enough time, you know"
 %
 In five years time, you will be dead and a stranger with your memories will inhabit your body. Don't worry, in ten years they'll be dead too.
 %
