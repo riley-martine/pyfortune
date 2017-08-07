@@ -23,6 +23,9 @@ We're gonna go to the mall and window shoplift...
 %
 (on A toilet door) Out of order! Use the stairs.
 %
+The years of searching in the dark for a truth that one feels but cannot express, the intense desire and the alternations of confidence and misgiving until one breaks through to clarity and understanding, are only known to him who has himself experienced them.
+    -- Black Holes and Time Warps
+%
 A conclusion is simply where you stopped thinking
 %
 Life is truly quite absurd, but with a little effort we could make it completely ridiculous.
@@ -66,6 +69,8 @@ Stop reading me. I am not dressed.
 be eristic in the face of anerisms
 %
 Be here at 2:23 am, I have a gift for you
+%
+"Are you wearing the Chan-" "The Chanel boots?! Yeah! I am!"
 %
 I managed to sneak up behind you while you were reading this.
 %
@@ -131,7 +136,7 @@ retirement lunch, he discovered the programmer asleep at his terminal.
 He had been programming all night.
 		-- Geoffrey James, "The Tao of Programming"
 %
- manager was about to be fired, but a programmer who worked for him
+  A manager was about to be fired, but a programmer who worked for him
 invented a new program that became popular and sold well.  As a result, the
 manager retained his job.
 	The manager tried to give the programmer a bonus, but the programmer
@@ -533,3 +538,13 @@ WALRUS
 "And the next two years will be unforgettable."
 %
 Die free or live trying
+%
+When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.
+%
+The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
+%
+Any sufficiently advanced technology is indistinguishable from magic.
+%
+Any technology distinguishable from magic is insufficiently advanced.
+%
+For every expert, there is an equal and opposite expert, but for every fact there is not necessarily an equal and opposite fact.
