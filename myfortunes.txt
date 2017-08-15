@@ -3,8 +3,6 @@ Then shalt thou count to three, no more, no less. Three shall be the number thou
 %
 it's great... just remove the duck
 %
-"Do you know what they call 'alternative medicine' that's been proved to work? Medicine." - Tim Minchin, Storm, 2008
-%
 The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
   — Tom Cargill, Bell Labs
 %
@@ -54,13 +52,13 @@ These are words of _hope_ when you're sad. When you feel alone, they fight for y
 %
 Lives are terribly F I C K L E things
   Filled with sound and FURY
-    so why fo we feel cold?
+    so why do we feel cold?
 %
 Well fuck... that didn't go like I thought it would.
 %
 I wasn't born to be quiet and soft. I was born to make the world shatter and shake at my fingertips.
 %
-These walls are_caving_ in.
+These walls are _caving_ in.
 %
 Let the sound of your life crash through these HALLS
 %
@@ -356,10 +354,6 @@ When examined, answer with questions.
 %
 If God existed it would be necessary to abolish him.
 %
-Revolutionary women are more beautiful.
-%
-Make love, not war.
-%
 Down with consumer society.
 %
 You can’t buy happiness. Steal it.
@@ -448,9 +442,9 @@ the Tao.
 In every non-trivial program there is at least one bug.
 %
 Real programmers don't bring brown-bag lunches.  If the vending machine
-doesn't sell it, they don't eat it.  Vending machines don't sell quiche.
+doesn't sell it, they don't eat it. Vending machines don't sell quiche.
 %
-Real Programmers don't eat quiche.  They eat Twinkies and Szechwan food.
+Real Programmers don't eat quiche. They eat Twinkies and Szechwan food.
 %
 	Something mysterious is formed, born in the silent void.  Waiting
 alone and unmoving, it is at once still and yet in constant motion.  It is
@@ -472,7 +466,7 @@ these questions three, ere the other side he see!
 	"What is your quest?"
 	"I seek the Holy Grail."
 	"What are four lowercase letters that are not legal flag arguments
-to the Berkeley UNIX version of `ls'?"
+to the Berkeley UNIX version of `ls`?"
 	"I, er.... AIIIEEEEEE!"
 %
 The Buddha, the Godhead, resides quite as comfortably in the circuits of a
@@ -482,7 +476,7 @@ the Buddha -- which is to demean oneself.
 		-- Robert Pirsig, "Zen and the Art of Motorcycle Maintenance"
 %
 The difference between art and science is that science is what we
-understand well enough to explain to a computer.  Art is everything else.
+understand well enough to explain to a computer. Art is everything else.
 		-- Donald Knuth, "Discover"
 %
 <link>once upon a midnight dreary, while i pron surfed, weak and weary, over many a strange and spurious site of ' hot  xxx galore'. While i clicked my fav'rite bookmark, suddenly there came a warning, and my heart was filled with mourning, mourning for my dear amour, " 'Tis not possible!", i muttered, " give me back my free hardcore!"..... quoth the server, 404.
@@ -519,13 +513,13 @@ blocks of wood.  Opaque, like black pools in darkened caves.
 There was, it appeared, a mysterious rite of initiation through which,
 in one way or another, almost every member of the team passed.  The term
 that the old hands used for this rite -- West invented the term, not the
-practice -- was `signing up.'  By signing up for the project you agreed
+practice -- was `signing up.`  By signing up for the project you agreed
 to do whatever was necessary for success.  You agreed to forsake, if
 necessary, family, hobbies, and friends -- if you had any of these left
 (and you might not, if you had signed up too many times before).
 		-- Tracy Kidder, "The Soul of a New Machine"
 %
-"This is lemma 1.1.  We start a new chapter so the numbers all go back to
+"This is lemma 1.1. We start a new chapter so the numbers all go back to
 one."
 		-- Prof. Seager, C&O 351
 %
@@ -535,12 +529,12 @@ A tautology is a thing which is tautological.
 %
 Dear Miss Manners:
 	My home economics teacher says that one must never place one's
-elbows on the table.  However, I have read that one elbow, in between
-courses, is all right.  Which is correct?
+elbows on the table. However, I have read that one elbow, in between
+courses, is all right. Which is correct?
 
 Gentle Reader:
 	For the purpose of answering examinations in your home economics
-class, your teacher is correct.  Catching on to this principle of
+class, your teacher is correct. Catching on to this principle of
 education may be of even greater importance to you now than learning
 correct current table manners, vital as Miss Manners believes that is.
 %
@@ -554,7 +548,8 @@ make it shorter.
 Where do I find the time for not reading so many books?
 		-- Karl Kraus
 %
-I'll give you a definite maybe. -Samuel Goldwyn
+I'll give you a definite maybe. 
+  -Samuel Goldwyn
 %
 We are not anticipating any emergencies.
 %
@@ -582,8 +577,6 @@ Hacking the grungy, hairy, sprawling hacks of youth, uncabled, frying diodes, pr
 WALRUS
 %
 "And the next two years will be unforgettable."
-%
-Die free or live trying
 %
 When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.
 %
