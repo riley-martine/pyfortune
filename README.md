@@ -21,6 +21,7 @@ see `myfortunes.txt` for an example if you do not understand
 
 ## TODO
 - [x] support multiple fortune files
+- [x] add 'short' and 'long' options
 - [ ] write tests
 - [ ] package as python package and distribute via PyPI
 - [ ] pickle fortune files for quicker reading
@@ -28,7 +29,6 @@ see `myfortunes.txt` for an example if you do not understand
 - [ ] add command line arguments
 - [ ] add 'wait' argument
 - [ ] add original BSD fortunes and option to use them
-- [ ] add 'short' and 'long' options
 - [ ] add 'regex' option
 - [ ] add 'database' arguments (offensive, all, single)
 - [ ] add 'source' arg
