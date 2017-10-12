@@ -39,14 +39,20 @@ if __name__ == "__main__":
   parser = argparse.ArgumentParser(description="Python implementation of `fortune` program")
   parser.add_argument("-s", "--short", help="Print a fortune at most 160 characters in length", action='store_true')
   parser.add_argument("-l", "--long", help="Print a fortune at least 160 characters in length", action='store_true')
+  parser.add_argument("-f", "--files", help="Print a list of files that will be searched", action='store_true')
   args = parser.parse_args()
   # print(args)
 
 
 
   # Pull fortunes out of files
-  FORTUNES = read_fortunes(FF_PATHS)
   
+  if args.files:
+      for file in FORTUNES_FILES:
+          print(file)
+      sys.exit(0)
+
+  FORTUNES = read_fortunes(FF_PATHS)
   if args.short:
     FORTUNES = list(filter(lambda x: len(x) <= 160, FORTUNES))
   if args.long:
