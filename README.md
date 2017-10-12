@@ -22,6 +22,7 @@ see `myfortunes.txt` for an example if you do not understand
 ## TODO
 - [x] support multiple fortune files
 - [x] add 'short' and 'long' options
+- [x] add 'print databases' arg
 - [ ] write tests
 - [ ] package as python package and distribute via PyPI
 - [ ] pickle fortune files for quicker reading
@@ -32,4 +33,3 @@ see `myfortunes.txt` for an example if you do not understand
 - [ ] add 'regex' option
 - [ ] add 'database' arguments (offensive, all, single)
 - [ ] add 'source' arg
-- [ ] add 'print databases' arg
