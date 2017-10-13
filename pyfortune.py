@@ -2,6 +2,7 @@ import os
 import sys
 import random
 import argparse
+import re
 
 FORTUNES_FILES = ['myfortunes.txt']
 SCRIPT_PATH = os.path.dirname(os.path.realpath(sys.argv[0]))
@@ -53,6 +54,7 @@ if __name__ == "__main__":
   parser.add_argument("-l", "--long", help="Print a fortune at least 160 characters in length", action='store_true')
   parser.add_argument("-f", "--files", help="Print a list of files that will be searched", action='store_true')
   parser.add_argument("-c", "--cookie", help="Also print the cookie file the fortune came from", action='store_true')
+  parser.add_argument("-m", "--regex", help="Filter fortunes by regex pattern. Uses python's regex syntax.")
   args = parser.parse_args()
   # print(args)
   #TODO make short and long mutually exclusive
@@ -70,6 +72,9 @@ if __name__ == "__main__":
     FORTUNES = apply_filter(lambda x: len(x) <= 160, FORTUNES)
   if args.long:
     FORTUNES = apply_filter(lambda x: len(x) >= 160, FORTUNES)
+  if args.regex:
+    prog = re.compile(args.regex)
+    FORTUNES = apply_filter(prog.match, FORTUNES)
     
 
   if len(FORTUNES) < 1:
