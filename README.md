@@ -19,10 +19,27 @@ fortune files are in the same format as the original program:
 
 see `myfortunes.txt` for an example if you do not understand
 
+## Usage
+Run `python3 pyfortune.py -h` to get full help.
+
+Run `python3 pyfortune` to get a random fortune.
+
+
+Command line args:
+
+* -s --short (filter for only short fortunes)
+* -l --long  (filter for only long fortunes)
+* -f --files (print all the files to be searched)
+* -c --cookie (print where fortune came from)
+* -m --regex (filter by python regex)
+
+
 ## TODO
 - [x] support multiple fortune files
 - [x] add 'short' and 'long' options
 - [x] add 'print databases' arg
+- [x] add 'regex' option
+- [x] add 'cookie' option
 - [ ] write tests
 - [ ] package as python package and distribute via PyPI
 - [ ] pickle fortune files for quicker reading
@@ -30,6 +47,5 @@ see `myfortunes.txt` for an example if you do not understand
 - [ ] add command line arguments
 - [ ] add 'wait' argument
 - [ ] add original BSD fortunes and option to use them
-- [ ] add 'regex' option
 - [ ] add 'database' arguments (offensive, all, single)
 - [ ] add 'source' arg
