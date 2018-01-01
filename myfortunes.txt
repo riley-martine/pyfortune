@@ -84,9 +84,9 @@ Do you think they look up and see lights?
 %
 In five years time, you will be dead and a stranger with your memories will inhabit your body. Don't worry, in ten years they'll be dead too.
 %
-An object at rest cannot be stopped
+An object at rest cannot be stopped.
 %
-All statements are true in some sense , false in some sense, meaningless in some sense, true and false in some sense, true and meaningless in some sense, false and meaningless in some sense, and true and false and meaningless in some sense.
+All statements are true in some sense, false in some sense, meaningless in some sense, true and false in some sense, true and meaningless in some sense, false and meaningless in some sense, and true and false and meaningless in some sense.
 %
 All myths are modern
 %
@@ -154,7 +154,7 @@ Sure, you say you like mysticism but when I sacrifice your cat you get all weird
 %
 hum4n5 4r3 w4lk1ng s0ul c4g35 =]
 %
-Some say he is a holy man. Others say he is a shithead." 
+"Some say he is a holy man. Others say he is a shithead." 
 Hearing this, the man was enlightened.
 %
 ALL THINGS HAPPEN IN FIVES, OR ARE DIVISIBLE BY OR ARE MULTIPLES OF FIVE, OR ARE SOMEHOW DIRECTLY OR INDIRECTLY APPROPRIATE TO 5.
@@ -394,7 +394,7 @@ THREE LAWS OF ROBOTICS:
 Without a winking smiley or other blatant display of humor, it is utterly impossible to parody a Creationist in such a way that someone won't mistake for the genuine article.
 				-- Nathan Poe
 %
-“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”
+"Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?"
 %
 A Thaum is the basic unit of magical strength.  It has been universally
 established as the amount of magic needed to create one small white pigeon
@@ -460,7 +460,7 @@ harmony in the world.
 morning.
 		-- Geoffrey James, "The Tao of Programming"
 %
-	Stop!  Whoever crosseth the bridge of Death, must answer first
+	Stop! Whoever crosseth the bridge of Death, must answer first
 these questions three, ere the other side he see!
 
 	"What is your name?"
@@ -481,7 +481,7 @@ The difference between art and science is that science is what we
 understand well enough to explain to a computer. Art is everything else.
 		-- Donald Knuth, "Discover"
 %
-<link>once upon a midnight dreary, while i pron surfed, weak and weary, over many a strange and spurious site of ' hot  xxx galore'. While i clicked my fav'rite bookmark, suddenly there came a warning, and my heart was filled with mourning, mourning for my dear amour, " 'Tis not possible!", i muttered, " give me back my free hardcore!"..... quoth the server, 404.
+<link> once upon a midnight dreary, while i pron surfed, weak and weary, over many a strange and spurious site of ' hot  xxx galore'. While i clicked my fav'rite bookmark, suddenly there came a warning, and my heart was filled with mourning, mourning for my dear amour, " 'Tis not possible!", i muttered, " give me back my free hardcore!"..... quoth the server, 404.
 %
 <Fulgore> whats the complement to a 43 degree angle?
 <sparks> My you're looking "acute" today
@@ -512,13 +512,7 @@ blocks of wood.  Opaque, like black pools in darkened caves.
 	The answer exists only in the Tao.
 		-- Geoffrey James, "The Tao of Programming"
 %
-There was, it appeared, a mysterious rite of initiation through which,
-in one way or another, almost every member of the team passed.  The term
-that the old hands used for this rite -- West invented the term, not the
-practice -- was `signing up.`  By signing up for the project you agreed
-to do whatever was necessary for success.  You agreed to forsake, if
-necessary, family, hobbies, and friends -- if you had any of these left
-(and you might not, if you had signed up too many times before).
+There was, it appeared, a mysterious rite of initiation through which, in one way or another, almost every member of the team passed.  The term that the old hands used for this rite -- West invented the term, not the practice -- was `signing up.`  By signing up for the project you agreed to do whatever was necessary for success.  You agreed to forsake, if necessary, family, hobbies, and friends -- if you had any of these left (and you might not, if you had signed up too many times before).
 		-- Tracy Kidder, "The Soul of a New Machine"
 %
 "This is lemma 1.1. We start a new chapter so the numbers all go back to
@@ -559,10 +553,7 @@ The best cure for insomnia is to get a lot of sleep. -W.C. Fields
 %
 			ACHTUNG!!!
 
-Das machine is nicht fur gefingerpoken und mittengrabben.  Ist easy schnappen
-der springenwerk, blowenfusen und corkenpoppen mit spitzensparken.  Ist nicht
-fur gewerken by das dummkopfen.  Das rubbernecken sightseeren keepen hands
-in das pockets.  Relaxen und vatch das blinkenlights!!!
+Das machine is nicht fur gefingerpoken und mittengrabben.  Ist easy schnappen der springenwerk, blowenfusen und corkenpoppen mit spitzensparken.  Ist nicht fur gewerken by das dummkopfen.  Das rubbernecken sightseeren keepen hands in das pockets.  Relaxen und vatch das blinkenlights!!!
 %
 Switch Thrower for the World,
 Fuze Tester, Maker of Routes,
@@ -579,12 +570,6 @@ Hacking the grungy, hairy, sprawling hacks of youth, uncabled, frying diodes, pr
 WALRUS
 %
 "And the next two years will be unforgettable."
-%
-When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.
-%
-The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
-%
-Any sufficiently advanced technology is indistinguishable from magic.
 %
 Any technology distinguishable from magic is insufficiently advanced.
 %
@@ -635,7 +620,7 @@ Hofstadter's Law: It always takes longer than you expect, even when you take int
 %
 "preceded by it's own quotation" preceded by it's own quotation
 %
-He who knows how to go about it could live comfortably even in hell
+He who knows how to go about it could live comfortably even in hell.
 %
 Disregard!
 %
@@ -649,7 +634,7 @@ Leap and the net will appear
 %
 “First you jump off the cliff and you build your wings on the way down”- Ray Bradbury
 %
-Gatsby believed in the green light, the orgastic future that year by year recedes before us. It eluded us then, but that's no matter—tomorrow we will run faster, stretch out our arms farther. . . . And one fine morning—— 
+Gatsby believed in the green light, the orgastic future that year by year recedes before us. It eluded us then, but that's no matter—tomorrow we will run faster, stretch out our arms farther.... And one fine morning—— 
 
 So we beat on, boats against the current, borne back ceaselessly into the past. 
 %
@@ -685,7 +670,7 @@ The Bible contains six admonishments to homosexuals and three hundred sixty-two 
 %
 'Twas Brillig, and the slithey toves did gyre and gimble in the wabe; all mimsy were the borogoves, and the mome raths outgrabe.
 %
-Our god's the FUN god! Our god's the SUN god! Ra! Ra! Ra
+Our god's the FUN god! Our god's the SUN god! Ra! Ra! Ra!
 %
 We are what we pretend to be, so we must be careful what we pretend to be.
 %
@@ -703,8 +688,7 @@ The Eleventh Commandment: Thou shalt not get caught.
 %
 A woman without a man is like a fish without a bicycle.
 %
-To err is human. To really foul up requires the root password."
-
+To err is human. To really foul up requires the root password.
 %
 Step out of the car.
 %
@@ -758,3 +742,5 @@ When we realize that we are all crazy, life is explained and the secrets of the 
 When madness becomes a method, the madman becomes a specialist.
 %
 Live today so that tomorrow you will like to remember yesterday.
+%
+World domination is such an ugly phrase. I prefer to call it world optimisation.
