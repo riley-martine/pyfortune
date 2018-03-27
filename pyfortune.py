@@ -4,7 +4,7 @@ import random
 import argparse
 import re
 
-FORTUNES_FILES = ['myfortunes.txt']
+FORTUNES_FILES = ['myfortunes.txt'] # Paths relative to the cwd
 SCRIPT_PATH = os.path.dirname(os.path.realpath(sys.argv[0]))
 FF_PATHS = [os.path.join(SCRIPT_PATH, file_path) for file_path in FORTUNES_FILES] 
 
@@ -26,7 +26,8 @@ def read_fortune(file_path):
     sys.exit(1)
   # Read in all database files
   try:
-    contents += open(file_path, 'r').read()
+    with open(file_path, 'r') as f:
+        contents += f.read()
   except IOError as er:
     print("Cannot open fortunes file at " + file_path)
     sys.exit(1)
@@ -55,10 +56,10 @@ if __name__ == "__main__":
   parser.add_argument("-f", "--files", help="Print a list of files that will be searched", action='store_true')
   parser.add_argument("-c", "--cookie", help="Also print the cookie file the fortune came from", action='store_true')
   parser.add_argument("-m", "--regex", help="Filter fortunes by regex pattern. Uses python's regex syntax.")
+  parser.add_argument("-n", "--number", help="Print the number of fortunes matching the criteria given.", action='store_true')
+  parser.add_argument("-a", "--all", help="Print all fortunes matching criteria given.", action='store_true')
   args = parser.parse_args()
   # print(args)
-  #TODO make short and long mutually exclusive
-
 
   # Pull fortunes out of files
   
@@ -68,6 +69,9 @@ if __name__ == "__main__":
       sys.exit(0)
 
   FORTUNES = read_fortunes(FF_PATHS)
+  if args.short and args.long:
+    print("Error: Fortunes cannot be both short and long!")
+    sys.exit(1)
   if args.short:
     FORTUNES = apply_filter(lambda x: len(x) <= 160, FORTUNES)
   if args.long:
@@ -76,10 +80,18 @@ if __name__ == "__main__":
     prog = re.compile(args.regex)
     FORTUNES = apply_filter(prog.match, FORTUNES)
     
+  if args.number:
+    print(sum([len(forts) for file, forts in FORTUNES]))
+    sys.exit(0)
 
-  if len(FORTUNES) < 1:
+  if args.all:
+    print("\n%\n".join(["\n%\n".join([f for f in fortunes]) for file, fortunes in FORTUNES]))
+    sys.exit(0)
+
+  if sum([len(forts) for file, forts in FORTUNES]) < 1:
     print("Add more fortunes!")
     sys.exit(1)
+
   
   COOKIE_FILE_NAME, YOUR_FORTUNE = randfortune(FORTUNES)
   
