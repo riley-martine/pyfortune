@@ -1,10 +1,12 @@
 # Pyfortune: a python fortune program
 I wanted to add my own fortunes to the fortune program, and writing this seemed simpler than modifying the existing fortune.
-Works with python 2 and 3.
+Works with python 3.6+
 
 ## Installation
-* Clone the repo somewhere on your system, maybe in `~/bin/`
-* Edit `myfortunes.txt` to only contain the fortunes you want to see
+The directions for installation are as follows:
+
+* Clone the repo somewhere on your system, for example in `~/bin/`
+* Edit `myfortunes.txt` to contain the fortunes you want to see
 * Add `python /path/to/pyfortune.py` to your (bashrc|zshrc|fishrc)
 * Open a new shell to test everything works
 
@@ -12,9 +14,9 @@ Works with python 2 and 3.
 fortune files are in the same format as the original program:
 
 * Start with a fortune
-* End the fortune with a line containing only `%\n`
-* Repeat steps 1 and 2 n times
-* End the file with only a fortune, no `%`
+* End the fortune with a line reading `%\n` (where `\n` is a newline character)
+* Repeat steps 1 and 2 to add your fortunes.
+* The final line should be a fortune, no `%` needed after.
 
 
 see `myfortunes.txt` for an example if you do not understand
@@ -40,6 +42,7 @@ Command line args:
 - [x] add 'print databases' arg
 - [x] add 'regex' option
 - [x] add 'cookie' option
+- [x] typing
 - [ ] write tests
 - [ ] package as python package and distribute via PyPI
 - [ ] pickle fortune files for quicker reading
