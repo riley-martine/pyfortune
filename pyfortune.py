@@ -1,60 +1,52 @@
+#!/usr/bin/env python3
+"""Python implementation of the fortune program. Prints random fortune."""
 import argparse
 import os
 import random
 import re
 import sys
+from typing import List, Tuple
 
 FORTUNES_FILES = ["myfortunes.txt"]  # Paths relative to the cwd
 SCRIPT_PATH = os.path.dirname(os.path.realpath(sys.argv[0]))
 FF_PATHS = [os.path.join(SCRIPT_PATH, file_path) for file_path in FORTUNES_FILES]
 
-# Get the randomest random we can random
-try:
-    r = random.SystemRandom()
-except:
-    r = random
 
-
-def read_fortunes(file_paths):
-    return [read_fortune(file_path) for file_path in file_paths]
-
-
-def read_fortune(file_path):
-    contents = ""
+def read_fortune_file(file_path: str) -> List[str]:
+    """Get the fortunes in a fortune file."""
     # Check that all of the files are there
     if not os.path.isfile(file_path):
-        print(
-            "Fortunes file `{}` not found! Put file in `{}`".format(
-                file_path, SCRIPT_PATH
-            )
-        )
+        print(f"Fortunes file `{file_path}` not found! Put file in `{SCRIPT_PATH}`")
         sys.exit(1)
     # Read in all database files
     try:
-        with open(file_path, "r") as f:
-            contents += f.read()
-    except IOError as er:
+        with open(file_path, "r") as fortunes_file:
+            contents = fortunes_file.read()
+    except IOError:
         print("Cannot open fortunes file at " + file_path)
         sys.exit(1)
 
-    fortunes = contents.split("%\n")
-    fortunes_no_newlines = [x.strip() for x in fortunes]
-    return [file_path, fortunes_no_newlines]
+    return [fortune.strip() for fortune in contents.split("%\n")]
 
 
-def randfortune(fortunes):
-    nums_fortunes = list(map(lambda l: len(l[1]), fortunes))
-    num_fortunes = sum(nums_fortunes)
-    f_num = r.randint(0, num_fortunes - 1)
-    for i, e in enumerate(nums_fortunes):
-        if f_num <= e:
-            return fortunes[i][0], fortunes[i][1][f_num]
-
-
-def apply_filter(func, fortunes):
-    for filesworth in fortunes:
-        filesworth[1] = list(filter(func, filesworth[1]))
+def read_fortunes(file_paths: List[str]) -> List[Tuple[str, str]]:
+    """Get a list of (cookie_file, fortune) for each fortune."""
+    fortunes = []
+    for file_path in file_paths:
+        fortunes.extend(
+            [(file_path, fortune) for fortune in read_fortune_file(file_path)]
+        )
     return fortunes
+
+
+def rand_fortune(fortunes: List[Tuple[str, str]]) -> Tuple[str, str]:
+    """Pick a random fortune from a list."""
+    return random.choice(fortunes)
+
+
+def apply_filter(func, fortunes: List[Tuple[str, str]]) -> List[Tuple[str, str]]:
+    """Get only fortunes where func(fortune) is True."""
+    return [fortune for fortune in fortunes if func(fortune[1])]
 
 
 if __name__ == "__main__":
@@ -125,22 +117,18 @@ if __name__ == "__main__":
         FORTUNES = apply_filter(prog.match, FORTUNES)
 
     if args.number:
-        print(sum([len(forts) for file, forts in FORTUNES]))
+        print(len(FORTUNES))
         sys.exit(0)
 
     if args.all:
-        print(
-            "\n%\n".join(
-                ["\n%\n".join([f for f in fortunes]) for file, fortunes in FORTUNES]
-            )
-        )
+        print("\n%\n".join([fortune for _, fortune in FORTUNES]))
         sys.exit(0)
 
-    if sum([len(forts) for file, forts in FORTUNES]) < 1:
+    if len(FORTUNES) < 1:
         print("Add more fortunes!")
         sys.exit(1)
 
-    COOKIE_FILE_NAME, YOUR_FORTUNE = randfortune(FORTUNES)
+    COOKIE_FILE_NAME, YOUR_FORTUNE = rand_fortune(FORTUNES)
 
     if args.cookie:
         print("({})\n%".format(COOKIE_FILE_NAME))
