@@ -982,3 +982,5 @@ The third rule, therefore, is don’t get caught.
 You’d pay to know what you really think.
 %
 Of course, we realize that a few expert opinions don’t necessarily reflect a consensus among all experts—nor, it should be noted, is consensus opinion necessarily the truth.
+%
+The broader game is very clear that when you realize that X is mostly not about Y, you’re supposed to keep saying that X is about Y, because that’s both how we keep the game’s difficulty high enough to send worthwhile signals, and how we get a little bit of Y out of the whole thing. A little is often all you need; thanks to the civilization this game has built, there really is room for most of us to waste most of our time. The whole system is built on this hypocrisy.
