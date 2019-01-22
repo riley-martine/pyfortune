@@ -80,7 +80,10 @@ Do you think they look up and see lights?
 "DO YOU THINK THEY'LL PAINT OVER THIS?"
     -not if they care
 %
-"Can you make a rock so heavy that you can't lift it?" "Of course, I can do anything. That is what omnipotent means." "Ha! But now there is a thing you can't do, because that rock is too heavy. How do you explain that?" "I will just make myself stronger and then I can lift it up. You could do the same thing with exercise and enough time, you know"
+"Can you make a rock so heavy that you can't lift it?"
+"Of course, I can do anything. That is what omnipotent means."
+"Ha! But now there is a thing you can't do, because that rock is too heavy. How do you explain that?"
+"I will just make myself stronger and then I can lift it up. You could do the same thing with exercise and enough time, you know"
 %
 In five years time, you will be dead and a stranger with your memories will inhabit your body. Don't worry, in ten years they'll be dead too.
 %
@@ -288,39 +291,23 @@ These are great mysteries.
 Adding manpower to a late software project makes it later.
 		-- F. Brooks, "The Mythical Man-Month"
 
-Whenever one person is found adequate to the discharge of a duty by
-close application thereto, it is worse execute by two persons and
-scarcely done at all if three or more are employed therein.
+Whenever one person is found adequate to the discharge of a duty by close application thereto, it is worse execute by two persons and scarcely done at all if three or more are employed therein.
 		-- George Washington, 1732-1799
 %
 As in certain cults it is possible to kill a process if you know its true
 name.
 		-- Ken Thompson and Dennis M. Ritchie
 %
-	Brian Kernighan has an automobile which he helped design.
-Unlike most automobiles, it has neither speedometer, nor gas gauge, nor
-any of the numerous idiot lights which plague the modern driver.
-Rather, if the driver makes any mistake, a giant "?" lights up in the
-center of the dashboard.  "The experienced driver", he says, "will
-usually know what's wrong."
+	Brian Kernighan has an automobile which he helped design. Unlike most automobiles, it has neither speedometer, nor gas gauge, nor any of the numerous idiot lights which plague the modern driver. Rather, if the driver makes any mistake, a giant "?" lights up in the center of the dashboard.  "The experienced driver", he says, "will usually know what's wrong."
 %
-Coding is easy;  All you do is sit staring at a terminal until the drops
-of blood form on your forehead.
+Coding is easy;  All you do is sit staring at a terminal until the drops of blood form on your forehead.
 %
-Creating computer software is always a demanding and painstaking
-process -- an exercise in logic, clear expression, and almost fanatical
-attention to detail.  It requires intelligence, dedication, and an
-enormous amount of hard work.  But, a certain amount of unpredictable
-and often unrepeatable inspiration is what usually makes the difference
-between adequacy and excellence.
+Creating computer software is always a demanding and painstaking process -- an exercise in logic, clear expression, and almost fanatical attention to detail.  It requires intelligence, dedication, and an enormous amount of hard work.  But, a certain amount of unpredictable and often unrepeatable inspiration is what usually makes the difference between adequacy and excellence.
 %
-Documentation is like sex: when it is good, it is very, very good; and
-when it is bad, it is better than nothing.
+Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing.
 		-- Dick Brandon
 %
-Every program has at least one bug and can be shortened by at least one
-instruction -- from which, by induction, one can deduce that every
-program can be reduced to one instruction which doesn't work.
+Every program has at least one bug and can be shortened by at least one instruction -- from which, by induction, one can deduce that every program can be reduced to one instruction which doesn't work.
 %
 The revolution is incredible because it’s really happening.
 %
@@ -408,8 +395,7 @@ Do what thou wilt shall be the whole of the Law.
 %
 Somewhere, just out of sight, the unicorns are gathering.
 %
-"The first rule of magic is simple.  Don't waste your time waving your
-hands and hoping when a rock or a club will do."
+"The first rule of magic is simple.  Don't waste your time waving your hands and hoping when a rock or a club will do."
 		-- McCloctnik the Lucid
 %
 Hackers of the world, unite!
@@ -421,10 +407,7 @@ Hackers of the world, unite!
 I bet the human brain is a kludge.
 		-- Marvin Minsky
 %
-If the designers of X-window built cars, there would be no fewer than five
-steering wheels hidden about the cockpit, none of which followed the same
-principles -- but you'd be able to shift gears with your car stereo.  Useful
-feature, that.
+If the designers of X-window built cars, there would be no fewer than five steering wheels hidden about the cockpit, none of which followed the same principles -- but you'd be able to shift gears with your car stereo.  Useful feature, that.
 		-- From the programming notebooks of a heretic, 1990.
 %
 	If the Tao is great, then the operating system is great.  If the
@@ -443,8 +426,7 @@ the Tao.
 %
 In every non-trivial program there is at least one bug.
 %
-Real programmers don't bring brown-bag lunches.  If the vending machine
-doesn't sell it, they don't eat it. Vending machines don't sell quiche.
+Real programmers don't bring brown-bag lunches.  If the vending machine doesn't sell it, they don't eat it. Vending machines don't sell quiche.
 %
 Real Programmers don't eat quiche. They eat Twinkies and Szechwan food.
 %
@@ -471,14 +453,10 @@ these questions three, ere the other side he see!
 to the Berkeley UNIX version of `ls`?"
 	"I, er.... AIIIEEEEEE!"
 %
-The Buddha, the Godhead, resides quite as comfortably in the circuits of a
-digital computer or the gears of a cycle transmission as he does at the top
-of a mountain or in the petals of a flower.  To think otherwise is to demean
-the Buddha -- which is to demean oneself.
+The Buddha, the Godhead, resides quite as comfortably in the circuits of a digital computer or the gears of a cycle transmission as he does at the top of a mountain or in the petals of a flower.  To think otherwise is to demean the Buddha -- which is to demean oneself.
 		-- Robert Pirsig, "Zen and the Art of Motorcycle Maintenance"
 %
-The difference between art and science is that science is what we
-understand well enough to explain to a computer. Art is everything else.
+The difference between art and science is that science is what we understand well enough to explain to a computer. Art is everything else.
 		-- Donald Knuth, "Discover"
 %
 <link> once upon a midnight dreary, while i pron surfed, weak and weary, over many a strange and spurious site of ' hot  xxx galore'. While i clicked my fav'rite bookmark, suddenly there came a warning, and my heart was filled with mourning, mourning for my dear amour, " 'Tis not possible!", i muttered, " give me back my free hardcore!"..... quoth the server, 404.
@@ -492,8 +470,7 @@ change in management can harm him.  He will not be fired, even if the project
 is canceled. Why is this?  He is filled with the Tao.
 		-- Geoffrey James, "The Tao of Programming"
 %
-The nice thing about standards is that there are so many of them to choose
-from.
+The nice thing about standards is that there are so many of them to choose from.
 		-- Andrew S. Tanenbaum
 %
 The primary purpose of the DATA statement is to give names to constants;
@@ -579,12 +556,7 @@ You can't have everything. Where would you put it?
 %
 Ha Ha, Only Serious
 %
-Don't you know that people
-worked really hard to create this straightjacket civilization? There's centuries of
-work poured into these illusions. Don't you know that the real world is cold and
-and you've gotta steel yourself to meet it? Armor your heart with ice and nothing
-will harm you ever again. Work is sacred. Laughter is for children. Grow
-UP already, grow UP
+Don't you know that people worked really hard to create this straightjacket civilization? There's centuries of work poured into these illusions. Don't you know that the real world is cold and and you've gotta steel yourself to meet it? Armor your heart with ice and nothing will harm you ever again. Work is sacred. Laughter is for children. Grow UP already, grow UP
 %
 Don't do PT for other artists, do it for people who will not realize (at least for a few moments) that what you have done is art.
 %
@@ -692,9 +664,7 @@ To err is human. To really foul up requires the root password.
 %
 Step out of the car.
 %
-Destroy your own icons and enabling narratives. They will keep
-you safe and neutered. Most people would rather destroy life, limb or
-property than do this.
+Destroy your own icons and enabling narratives. They will keep you safe and neutered. Most people would rather destroy life, limb or property than do this.
 %
 Chances are, the "tribe" you cling to is a mass-produced consumer product.
 %
@@ -789,7 +759,7 @@ The human bureaucracy is expanding to meet the needs of the expanding human bure
 %
 Lie down on the floor and keep calm.
 %
-Only those who attempt the absurd will achieve the impossible
+Only those who attempt the absurd will achieve the impossible.
 %
 Never attribute to malice that which is adequately explained by stupidity.
 %
@@ -798,7 +768,6 @@ I talk about he gods, I am an atheist. But I am an artist too, and therefore a l
 The assumption that what currently exists must necessarily exist is the acid that corrodes all visionary thinking.
 %
 If we do not do the impossible, we shall be faced with the unthinkable.
-%
 This place is a message...and part of a system of messages...pay attention to it! Sending this message was important to us. We considered ourselves to be a powerful culture. This place is not a place of honor...no highly esteemed deed is commemorated here...nothing valued is here. What is here is dangerous and repulsive to us. This message is a warning about danger. The danger is in a particular location...it increases toward a center...the center of danger is here...of a particular size and shape, and below us. The danger is still present, in your time, as it was in ours. The danger is to the body, and it can kill. The form of the danger is an emanation of energy. The danger is unleashed only if you substantially disturb this place physically. This place is best shunned and left uninhabited.
 %
 It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
@@ -984,3 +953,141 @@ You’d pay to know what you really think.
 Of course, we realize that a few expert opinions don’t necessarily reflect a consensus among all experts—nor, it should be noted, is consensus opinion necessarily the truth.
 %
 The broader game is very clear that when you realize that X is mostly not about Y, you’re supposed to keep saying that X is about Y, because that’s both how we keep the game’s difficulty high enough to send worthwhile signals, and how we get a little bit of Y out of the whole thing. A little is often all you need; thanks to the civilization this game has built, there really is room for most of us to waste most of our time. The whole system is built on this hypocrisy.
+%
+“Do not be daunted by the enormity of the world’s grief. Do justly, now. Love mercy, now. Walk humbly now. You are not obligated to complete the work, but neither are you free to abandon it.” - Rabbi Tarfon
+%
+There’s always another secret
+%
+With freedom as a doctrine, guess who was a new authority?
+%
+Knowledge is a rumour until it lives in the body
+%
+Economic growth may be the world’s secular religion, but for much of the world it is a god that is failing today
+%
+Mind and its contents are functionally identical
+%
+I'm glad I don't like cauliflower, because if I liked it, I'd eat it, and I hate the stuff
+%
+Communication is only possible between equals
+%
+The future exists first in imagination, then in will, then in reality
+%
+Tags like "stupid," "bad at __", "sloppy," and so on, are ways of
+saying "You're performing badly and I don't know why." Once you move
+it to "you're performing badly because you have the wrong fingerings,"
+or "you're performing badly because you don't understand what a limit
+is," it's no longer a vague personal failing but a causal necessity.
+Anyone who never understood limits will flunk calculus. It's not you,
+it's the bug.
+%
+And here, according to Trout, was the reason human beings could not
+reject ideas because they were bad: Ideas on Earth were badges of
+friendship or enmity. Their content did not matter. Friends agreed
+with friends, in order to express friendliness. Enemies disagreed with
+enemies, in order to express enmity. The ideas Earthlings held didn’t
+matter for hundreds of thousands of years, since they couldn’t do much
+about them anyway. Ideas might as well be badges as anything.
+%
+Sometimes magic is just someone spending more time on something than
+anyone else might reasonably expect
+%
+On the error of failing to appreciate your opponents three-dimensionality:
+
+    They had cliche answers but only to their self-created straw-men. To
+    exaggerate only slightly, they had never talked to anyone who really
+    believed, and had thought deeply about, views drastically different
+    from their own. As a result, when they heard real arguments instead of
+    caricatures, they had no answers, only amazement that such views could
+    be expressed by someone who had the external characteristics of being
+    a member of the intellectual community, and that such views could be
+    defended with apparent cogency. Never have I been more impressed with
+    the advice I once received: "You cannot be sure that you are right
+    unless you understand the arguments against your views better than
+    your opponents do."
+
+-- Milton Friedman, Schools at Chicago,
+from The Indispensable Milton Friedman
+%
+You are not the king of your brain. You are the creepy guy standing
+next to the king going "a most judicious choice, sire".
+
+-- Steven Kaas
+%
+You know what they say the modern version of Pascal's Wager is?
+Sucking up to as many Transhumanists as possible,
+just in case one of them turns into God.
+
+-- Julie from Crystal Nights by Greg Egan
+%
+Just because you two are arguing, doesn't mean one of you is right.
+
+-- Maurog
+%
+It is a vast, and pervasive, cognitive mistake to assume that people
+who agree with you (or disagree) do so on the same criteria that you
+care about.
+
+-- Megan McArdle
+%
+Do unto others 20% better than you expect them to do unto you, to
+correct for subjective error.
+
+-- Linus Pauling
+%
+It shouldn't be disrespectful to the complexity of the human condition
+to say that despair is also, often, just low blood sugar.
+
+-- Alain de Botton
+%
+He uses statistics as a drunkard uses a lamppost: for support, not for
+illumination.
+
+-- G.K. Chesterton
+%
+On utility:
+
+    culturejammer: you know what pennies are AWESOME for?
+
+    culturejammer: throwing at cats
+
+    culturejammer: it only costs a single penny
+
+    culturejammer: and they'll either chase it, or get hit by it and look
+    pissed off
+
+    culturejammer: i now use that system to value prices of things
+
+    culturejammer: for example, a thirty dollar game has to be at least as
+    awesome as three thousand catpennies
+
+-- bash.org
+%
+The greatest obstacle to discovery is not ignorance - it is the
+illusion of knowledge.
+
+-- Daniel J. Boorstin
+%
+
+"Stupider" for a time might not have been a real word, but it
+certainly points where it’s supposed to. The other day my sister used
+the word "deoffensify". It’s not a real word, but that didn’t make it
+any less effective. Communication doesn’t care about the "realness" of
+language, nor does it often care about the exact dictionary
+definitions. Words change through every possible variable, even time.
+One of the great challenges of communication has always been making
+sure words mean the same thing to you and your audience.
+
+-- Michael Kayin OReilly
+%
+
+"Programmers waste enormous amounts of time thinking about, or
+worrying about, the speed of noncritical parts of their programs, and
+these attempts at efficiency actually have a strong negative impact
+when debugging and maintenance are considered.
+
+We should forget about small efficiencies, say about 97% of the time;
+premature optimization is the root of all evil."
+
+-- Donald Knuth (see also Amdahls law)
+%
+The problem is not the problem. The problem is your attitude about the problem.
