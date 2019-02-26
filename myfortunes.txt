@@ -1091,3 +1091,45 @@ premature optimization is the root of all evil."
 -- Donald Knuth (see also Amdahls law)
 %
 The problem is not the problem. The problem is your attitude about the problem.
+%
+Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it’s the only thing that ever has.
+%
+Discordianism is often describes as being either an elaborate satire disguised as a religion or an elaborate religion disguised as satire, a description which wrongly assumes that it cannot be both at the same time.
+%
+Such constructions grow secretly in many minds, acknowledged and understood only by their creators. Their imaginary nature, however, does not mean that they are unable to affect the world at large.
+%
+As he saw it, things were only really worth doing if they were impossible. To quote the actor Chris Langham, who co-wrote the play with Campbell, "If it's possible it will end up as some mediocre, grant-subsidied bit of well-intentioned bourgeois bollocks. But if it's impossible, then it will assume an energy of its own, despite everything we do or don't do."
+%
+It was completely mad, of course, he knew that. But that wasn't a good reason not to do it.
+%
+The one place that gods unarguably exist is in our minds where they are real beyond refute, in all their grandeur and monstrosity.
+%
+Opposition to the spectacle can produce only the spectacle of opposition.
+%
+Accept the contradictions.
+%
+Think for yourself, schmuck!
+%
+You may be 38 years old, as I happen to be. And one day, some great opportunity stands before you and calls you to stand up for some great principle, some great issue, some great cause. And you refuse to do it because you are afraid... You refuse to do it because you want to live longer... You're afraid that you will lose your job, or you are afraid that you will be criticized or that you will lose your popularity, or you're afraid someone will stab you, or shoot at you or bomb your house; so you refuse to take the stand.
+
+Well, you may go on and live until you are 90, but you're just as dead at 38 as you would be at 90. And the cessation of breating in your life is but the belated announcement of an earlier death of the spirit.
+%
+We thought of life by analogy with a journy, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you're dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
+%
+Omit needless words.
+%
+Be the change you want to see in the world.
+%
+The wisdom of life consists in the elimination of non-essentials.
+%
+If you can't explain something simply, you don't understand it well.
+%
+I don't know how to stop it, there was never any intent to write a programming language [...] I have absolutely no idea how to write a programming language, I just kept adding the next logical step on the way.
+%
+Like the famous mad philosopher said, when you stare into the void, the void stares also; but if you cast into the void, you get a type conversion error. (Which just goes to show Nietzsche wasn't a C++ programmer.)
+%
+Just as it's possible to write a TCP/IP protocol stack in some utterly inappropriate programming language like ML or Visual Basic, so, too, it's possible to implement TCP/IP over carrier pigeons, or paper tape, or daemons summoned from the vasty deep.
+%
+There’s only one way to avoid criticism: Do nothing, say nothing, be nothing. – Elbert Hubbard
+%
+Love thyself!
