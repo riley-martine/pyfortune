@@ -38,7 +38,7 @@ Count the seconds it takes to stop thinking about this sentence.
 %
 You have 30 seconds to forget this sentence.
 %
-There are no Powers That Be™. The MACHINE™ deposed them long ago, or perhaps they just became obsolete, victims of their own efficiency. 
+There are no Powers That Be™. The MACHINE™ deposed them long ago, or perhaps they just became obsolete, victims of their own efficiency.
 %
 It is my firm belief that it is a mistake to hold firm beliefs.
 %
@@ -157,7 +157,7 @@ Sure, you say you like mysticism but when I sacrifice your cat you get all weird
 %
 hum4n5 4r3 w4lk1ng s0ul c4g35 =]
 %
-"Some say he is a holy man. Others say he is a shithead." 
+"Some say he is a holy man. Others say he is a shithead."
 Hearing this, the man was enlightened.
 %
 ALL THINGS HAPPEN IN FIVES, OR ARE DIVISIBLE BY OR ARE MULTIPLES OF FIVE, OR ARE SOMEHOW DIRECTLY OR INDIRECTLY APPROPRIATE TO 5.
@@ -395,7 +395,7 @@ Do what thou wilt shall be the whole of the Law.
 %
 Somewhere, just out of sight, the unicorns are gathering.
 %
-"The first rule of magic is simple.  Don't waste your time waving your hands and hoping when a rock or a club will do."
+"The first rule of magic is simple. Don't waste your time waving your hands and hoping when a rock or a club will do."
 		-- McCloctnik the Lucid
 %
 Hackers of the world, unite!
@@ -521,7 +521,7 @@ make it shorter.
 Where do I find the time for not reading so many books?
 		-- Karl Kraus
 %
-I'll give you a definite maybe. 
+I'll give you a definite maybe.
   -Samuel Goldwyn
 %
 We are not anticipating any emergencies.
@@ -606,9 +606,9 @@ Leap and the net will appear
 %
 “First you jump off the cliff and you build your wings on the way down”- Ray Bradbury
 %
-Gatsby believed in the green light, the orgastic future that year by year recedes before us. It eluded us then, but that's no matter—tomorrow we will run faster, stretch out our arms farther.... And one fine morning—— 
+Gatsby believed in the green light, the orgastic future that year by year recedes before us. It eluded us then, but that's no matter—tomorrow we will run faster, stretch out our arms farther.... And one fine morning——
 
-So we beat on, boats against the current, borne back ceaselessly into the past. 
+So we beat on, boats against the current, borne back ceaselessly into the past.
 %
 Jesus I am your God and serving to mankind is painful;
 %
@@ -721,22 +721,6 @@ That which can be destroyed by the truth should be.
 %
 I don't need any calming tea! I need to capture the Avatar!
 %
-Harry: You can't DO that! 
-Minerva McGonagall: It's only a transfiguration; an animagus transformation, to be exact— 
-Harry: You turned into a cat! A SMALL cat! You violated Conservation of Energy! That's not just an arbitrary rule, it's implied by the form of the quantum Hamiltonian! Rejecting it destroys unitarity and then you get FTL signaling! And cats are COMPLICATED! A human mind can't just visualize a whole cat's anatomy and, and all the cat biochemistry, and what about the neurology? How can you go on thinking using a cat-sized brain? 
-Minerva: Magic. 
-Harry: Magic isn't enough to do that! You'd have to be a god! 
-Minerva: ... that's the first time I've been called that.
-%
-I only want power so I can get books.
-%
-There is no justice in the laws of nature, no term for fairness in the equations of motion. The Universe is neither evil, nor good, it simply does not care. The stars don't care, or the Sun, or the sky. 
-But they don't have to! WE care! There IS light in the world, and it is US!
-%
-Many have stood their ground and faced the darkness when it comes for them. Fewer come for the darkness and force it to face them.
-%
-And someday when the descendants of humanity have spread from star to star they won’t tell the children about the history of Ancient Earth until they’re old enough to bear it and when they learn they’ll weep to hear that such a thing as Death had ever once existed
-%
 Why does any kind of cynicism appeal to people? Because it seems like a mark of maturity, of sophistication, like you’ve seen everything and know better. Or because putting something down feels like pushing yourself up.
 %
 What people really believe doesn't feel like a BELIEF, it feels like the way the world IS.
@@ -768,6 +752,7 @@ I talk about he gods, I am an atheist. But I am an artist too, and therefore a l
 The assumption that what currently exists must necessarily exist is the acid that corrodes all visionary thinking.
 %
 If we do not do the impossible, we shall be faced with the unthinkable.
+%
 This place is a message...and part of a system of messages...pay attention to it! Sending this message was important to us. We considered ourselves to be a powerful culture. This place is not a place of honor...no highly esteemed deed is commemorated here...nothing valued is here. What is here is dangerous and repulsive to us. This message is a warning about danger. The danger is in a particular location...it increases toward a center...the center of danger is here...of a particular size and shape, and below us. The danger is still present, in your time, as it was in ours. The danger is to the body, and it can kill. The form of the danger is an emanation of energy. The danger is unleashed only if you substantially disturb this place physically. This place is best shunned and left uninhabited.
 %
 It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
@@ -789,7 +774,7 @@ It was on fire when I found it
 %
 I am rarely happier than when spending entire day programming my computer to perform automatically a task that it would otherwise take me a good ten seconds to do by hand.
 %
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence. 
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 %
 They said Galileo was a fool. They said Einstein was a fool. They said the Wright Brothers were fools. What you've got to remember, however, is that they also said that about a lot of fools.
 %
@@ -862,12 +847,12 @@ Acting is behaving truthfully under imaginary circumstances
 %
 And how does that make you feel?
 %
-GP: Is Eris true? 
-M2: Everything is true. 
-GP: Even false things? 
-M2: Even false things are true. 
-GP: How can that be? 
-M2: I don't know man, I didn't do it.	
+GP: Is Eris true?
+M2: Everything is true.
+GP: Even false things?
+M2: Even false things are true.
+GP: How can that be?
+M2: I don't know man, I didn't do it.
 %
 Everything in the universe relates to the number 5, one way or another, given enough ingenuity on the part of the interpreter.
 %
@@ -881,10 +866,10 @@ The unfortunate result of this is that mankind has since been suffering from a p
 
 It is called THE CURSE OF GREYFACE.
 %
-May you be free of The Curse of Greyface. 
-May the Goddess put twinkles in your eyes. 
-May you have the knowledge of a sage, 
-and the wisdom of a child. 
+May you be free of The Curse of Greyface.
+May the Goddess put twinkles in your eyes.
+May you have the knowledge of a sage,
+and the wisdom of a child.
 Hail Eris.
 %
 The Aneristic Principle is that of APPARENT ORDER; the Erisitic Principle is that of APPARENT DISORDER. Both order and disorder are man made CONCEPTS and are artificial divisions of PURE CHAOS, which is a level deeper than is the level of distinction making.
@@ -1114,7 +1099,7 @@ You may be 38 years old, as I happen to be. And one day, some great opportunity 
 
 Well, you may go on and live until you are 90, but you're just as dead at 38 as you would be at 90. And the cessation of breating in your life is but the belated announcement of an earlier death of the spirit.
 %
-We thought of life by analogy with a journy, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you're dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
+We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you're dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
 %
 Omit needless words.
 %
@@ -1125,11 +1110,165 @@ The wisdom of life consists in the elimination of non-essentials.
 If you can't explain something simply, you don't understand it well.
 %
 I don't know how to stop it, there was never any intent to write a programming language [...] I have absolutely no idea how to write a programming language, I just kept adding the next logical step on the way.
+    -- Rasmus Lerdorf, creator of PHP
 %
 Like the famous mad philosopher said, when you stare into the void, the void stares also; but if you cast into the void, you get a type conversion error. (Which just goes to show Nietzsche wasn't a C++ programmer.)
+    -- Charles Stross, The Fuller Memorandum
 %
 Just as it's possible to write a TCP/IP protocol stack in some utterly inappropriate programming language like ML or Visual Basic, so, too, it's possible to implement TCP/IP over carrier pigeons, or paper tape, or daemons summoned from the vasty deep.
+    -- Charles Stross, Jennifer Morgue
 %
-There’s only one way to avoid criticism: Do nothing, say nothing, be nothing. – Elbert Hubbard
+There’s only one way to avoid criticism: Do nothing, say nothing, be nothing.
+    -- Elbert Hubbard
 %
 Love thyself!
+%
+The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the deadly light into the peace and safety of a new dark age.
+  --The Call of Cthulu
+%
+Surrealism aims at the total transformation of the mind and all that resembles it.
+ --Breton
+%
+Some may sing the wrong words to the wrong melodies. It’s little things like this that matter to me.
+ --Beth Orton
+%
+No matter how cynical you become it’s never enough to keep up.
+ --Lily Tomlin
+%
+There are only two kinds of freedom in the world: the freedom of the rich and powerful, and the freedom of the artist and the monk who renounces possessions.
+ --Anais Nin
+%
+Reality is merely an illusion, albeit a very persistant one.
+ --Albert Einstein
+%
+Reality is the leading cause of stress amongst those in touch with it.
+ --Jane Wagner
+%
+Reality is something you rise above.
+ --Liza Minelli
+%
+Reality is a crutch for people who can’t cope with drugs.
+ --Lily Tomlin
+%
+Reality is that which, when you stop believing in it, doesn’t go away.
+ --Philip K. Dick
+%
+Common sense is what tells you that the world is flat.
+%
+Occam was never the target of a conspiracy.
+%
+Do I contradict myself? Very well, then I contradict myself, I am large, I contain multitudes.
+ --Walt Whitman
+%
+It is a grave and serious and an enourmous mistake to take oneself too seriously.
+ --Tom Robbins
+%
+Optimists are right. So are pessimists.
+%
+If at first an idea isn’t absurd there is no hope for it.
+ --Albert Einstein
+%
+Every man and every woman is a star.
+ --Aleister Crowley
+%
+We are all in the gutter, but some of us are looking at the stars.
+ --Oscar Wilde
+%
+Life moves pretty fast, if you don’t stop to look around once in a while you could miss it.”
+ --St. Ferris
+%
+One should respect public opinion in so far as it is necessary to avoid starvation and keep out of prison, but anything beyond this is voluntary submission to an unnecessary tyranny.
+ --Bertrand Russell
+%
+To make one’s own rules is the highest freedom.
+ --Martin Heidigger
+%
+We are what we pretend to be, so we must be careful what we pretend to be.
+ --Kurt Vonnegut
+%
+Liberty means responsibility. That is why most men dread it.
+ --George Bernard Shaw
+%
+Not by wrath, but by laughter, do we slay.
+ --Nietzsche
+%
+I have come to tell you that you are free. Many ages ago, My consciousness left humanity, that they might develop themselves. I return to find this development approaching completion, but hindered by fear and by misunderstanding. You have built for yourselves psychic suits of armor, and clad in them, your vision is restricted, your movements are clumsy and painful, your skin is bruised, and your spirit is broiled in the sun. I am chaos. I am the substance from which your artists and scientists build rhythms. I am the spirit with which your children and clowns laugh in happy anarchy. I am chaos. I am alive, and I tell you that you are free.
+ --Eris Nancy Discordia
+%
+To choose order over disorder, or disorder over order, is to accept a path composed of both the creative and the destructive. But to choose the creative over the destructive is an all-creative path composed of both order and disorder. To accomplish this, one need only accept creative disorder along with, and equal to, creative order, and also be willing to reject destructive order as an undesirable equal to destructive disorder.
+%
+Enough research tends to support one's theory.
+%
+IMPOSITION OF ORDER=ESCALATION OF CHAOS
+%
+People are afraid to forget their minds, fearing to fall through the emptiness with nothing to hold them. They do not know that emptiness is not really emptiness, but the realm of real dharma.
+ --Huang Po
+%
+The mere fact that I am acting on *my* wants does not mean that I am acting selfishly; that depends on what it is that I want. If I want only my own good, and care nothing for others, then I am selfish; but if I also want other people to be well off and happy, and if I act on that desire, then my action is not selfish.
+ --James Rachels, Egoism and Moral Scepticism
+%
+Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.
+%
+There is no such thing as a value-free social science
+%
+In the elder days of art
+Builders wrought with greatest care
+Each minute and unseen part,
+For the Gods are everywhere.
+%
+We take it for granted today, but a single Dorito has more extreme nacho flavor than a peasant in the 1400s would get in his whole lifetime.
+%
+Injustice plus Time does not equal Justice
+%
+Practice random kindness and senseless acts of beauty.
+%
+It's possible to stand up for others without putting anyone else down
+%
+Remember to feel good about the good things.
+%
+What I cannot create, I do not understand. — Richard Feynman
+%
+Take the pain and bite it between hard won teeth. Pull it into yourself, Because it can't hurt you if you own it.
+    --Shatter, Peter Hainsworth
+%
+Love is the extremely difficult realisation that something other than oneself is real.
+  --Iris Murdoch
+%
+Happiness is something we re-create every day.
+  --More Than Two
+%
+Nature never repeats herself, and the possibilities of one human soul will never be found in another.
+  --Elizabeth Cady Stanton
+%
+Relationships don't need to be mass-produced to factory specifications; we can grow them to meet our needs.
+  --More Than Two
+%
+"It is impossible for a man to learn what he thinks he already knows." -Epictetus
+%
+"Any grid we use to organize our experience of the world is a model of the world and should not be confused with the world itself."
+
+- Niels Bohr
+%
+"All of our life, so far as it has definite form, is but a mass of habits."
+
+-William James
+%
+"Before our minds create the world, how does the world create our mind?"
+
+-Gabor Mate
+%
+"In the province of the mind, what the mind believes to be true, either is true or becomes true within certain limits to be found experientially and experimentally. These limits are further beliefs to be transcended. In the mind there are no limits."
+
+-John C. Lilly
+%
+"Man can know himself only in so far as he can become conscious of himself." -Carl Jung
+%
+“We make the unconscious conscious by examining our patterns.” -James Hollis
+%
+"It is quite possible to overcome infantile suggestions of the unconscious, and even change the contents of the unconscious, by employing the right kind of technique."
+
+-Bertrand Russell
+%
+"People are disturbed not by things, but by the views we take of them." -Epictetus
+%
+"The Mind is its own place, and in itself can make a heaven of hell, a hell of heaven." -John Milton
