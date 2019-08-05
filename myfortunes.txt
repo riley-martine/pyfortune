@@ -1272,3 +1272,21 @@ Relationships don't need to be mass-produced to factory specifications; we can g
 "People are disturbed not by things, but by the views we take of them." -Epictetus
 %
 "The Mind is its own place, and in itself can make a heaven of hell, a hell of heaven." -John Milton
+%
+"Without requirements or design, programming is the art of adding bugs to an empty text file."
+ -- Louis Srygley
+ %
+"The best thing about a boolean is even if you are wrong, you are only off by a bit." - an unknown programmer
+%
+"Reading maketh a full man, conference a ready man, and writing an exact man", said Mr. Knowledge is Power, "And, therefore, if a man writes little, he had needed have a great memory; if he confers little, he had need of a ready wit; and if he read little, he had need of much cunning to seem to know that he knoweth not” -- Francis Bacon
+%
+Sometimes the problem is to discover what the problem is.
+ -- Gordon Clegg
+%
+Adding people to a late software project makes it later.
+%
+It is on the speaker to be heard, not the listener to hear.
+%
+Thinking is also work
+%
+It is easy to like likable people. It is much harder to like people who have flaws. It does not mean you should not do it.
