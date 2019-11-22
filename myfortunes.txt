@@ -735,7 +735,7 @@ sharing isn't immoral — it's a moral imperative
 %
 The future is already here; it's just not evenly distributed.
 %
-Los Alamos' lights where wizards stay up lare
+Los Alamos' lights where wizards stay up late
 (Stay in the car, forget the gate)
 To save the world or end it, time will tell.
 %
@@ -1290,3 +1290,52 @@ It is on the speaker to be heard, not the listener to hear.
 Thinking is also work
 %
 It is easy to like likable people. It is much harder to like people who have flaws. It does not mean you should not do it.
+%
+Quidquid latine dictum sit, altum sonatur. - Whatever is said in Latin sounds profound.
+%
+We all agree on the necessity of compromise. We just can't agree on when it's necessary to compromise.
+ --Larry Wall
+%
+The Harvard Law states: Under controlled conditions of light, temperature, humidity, and nutrition, the organism will do as it damn well pleases.
+ --Larry Wall
+%
+That's a valid argument. I just don't think it's valid enough.
+ --Larry Wall
+%
+Symmetry is overrated. Overrated is symmetry.
+ --Larry Wall
+%
+History is a nightmare from which I am trying to awake.
+ --Stephen Dedalus, in ULYSSES.
+%
+There is layer upon layer [of meaning] in the words of the sages. In your reading of them, penetrate deeply. If you simply read what is on the surface you will misunderstand. Steep yourself in the words; only then will you grasp their meaning.
+%
+Sometimes, hacking is just someone spending more time on something than anyone else might reasonably expect.
+%
+I call it my billion-dollar mistake. It was the invention of the null reference in 1965. At that time, I was designing the first comprehensive type system for references in an object oriented language (ALGOL W). My goal was to ensure that all use of references should be absolutely safe, with checking performed automatically by the compiler. But I couldn't resist the temptation to put in a null reference, simply because it was so easy to implement. This has led to innumerable errors, vulnerabilities, and system crashes, which have probably caused a billion dollars of pain and damage in the last forty years.
+%
+Coincidences are strange and dangerous things.
+%
+If you ‘future proof’ a system you build today, chances are when the future arrives the system will be unmaintainable or incomprehensible.
+- John Murphy
+%
+Rather than making oneself uniform, we may find greater value for the enrichment of knowledge by listening to the soft voice of different life situations; each brings its own views with it. Thus we acknowledge and share the life and nature of many by not treating ourselves like rigid, invariable, single individuals.
+ --Nietzsche
+%
+People used to talk about the internet as a place. The information superhighway. A frontier. The internet was something to get on…. Now people talk about the internet as something to talk to; it is a someone. Even casually, people discuss the internet—insentient, dumb—as living, real. A friend or foe. Something with eyes.
+%
+The great Norwegian mathematician Niels Henrik Abel was once asked how he had become so good at mathematics. He replied that it was “by studying the masters, not their pupils”.
+%
+
+
+    A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
+
+    (John Gall)
+
+%
+
+
+    Technology is dominated by two types of people, those who understand what they do not manage and those who manage what they do not understand.
+
+%
+God may judge you but His sins outnumber your own.
