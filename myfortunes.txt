@@ -19,7 +19,7 @@ If you meet a man with a gun in the road, hide your Buddhahood.
 %
 We're gonna go to the mall and window shoplift...
 %
-(on A toilet door) Out of order! Use the stairs.
+(on a toilet door) Out of order! Use the stairs.
 %
 The years of searching in the dark for a truth that one feels but cannot express, the intense desire and the alternations of confidence and misgiving until one breaks through to clarity and understanding, are only known to him who has himself experienced them.
     -- Black Holes and Time Warps
@@ -294,11 +294,10 @@ Adding manpower to a late software project makes it later.
 Whenever one person is found adequate to the discharge of a duty by close application thereto, it is worse execute by two persons and scarcely done at all if three or more are employed therein.
 		-- George Washington, 1732-1799
 %
-As in certain cults it is possible to kill a process if you know its true
-name.
+As in certain cults it is possible to kill a process if you know its true name.
 		-- Ken Thompson and Dennis M. Ritchie
 %
-	Brian Kernighan has an automobile which he helped design. Unlike most automobiles, it has neither speedometer, nor gas gauge, nor any of the numerous idiot lights which plague the modern driver. Rather, if the driver makes any mistake, a giant "?" lights up in the center of the dashboard.  "The experienced driver", he says, "will usually know what's wrong."
+Brian Kernighan has an automobile which he helped design. Unlike most automobiles, it has neither speedometer, nor gas gauge, nor any of the numerous idiot lights which plague the modern driver. Rather, if the driver makes any mistake, a giant "?" lights up in the center of the dashboard.  "The experienced driver", he says, "will usually know what's wrong."
 %
 Coding is easy;  All you do is sit staring at a terminal until the drops of blood form on your forehead.
 %
@@ -459,15 +458,13 @@ The Buddha, the Godhead, resides quite as comfortably in the circuits of a digit
 The difference between art and science is that science is what we understand well enough to explain to a computer. Art is everything else.
 		-- Donald Knuth, "Discover"
 %
-<link> once upon a midnight dreary, while i pron surfed, weak and weary, over many a strange and spurious site of ' hot  xxx galore'. While i clicked my fav'rite bookmark, suddenly there came a warning, and my heart was filled with mourning, mourning for my dear amour, " 'Tis not possible!", i muttered, " give me back my free hardcore!"..... quoth the server, 404.
+<link> once upon a midnight dreary, while i pron surfed, weak and weary, over many a strange and spurious site of 'hot  xxx galore'. While i clicked my fav'rite bookmark, suddenly there came a warning, and my heart was filled with mourning, mourning for my dear amour, " 'Tis not possible!", i muttered, " give me back my free hardcore!"..... quoth the server, 404.
 %
 <Fulgore> whats the complement to a 43 degree angle?
 <sparks> My you're looking "acute" today
 <Fulgore> fuck you
 %
-	The master programmer moves from program to program without fear.  No
-change in management can harm him.  He will not be fired, even if the project
-is canceled. Why is this?  He is filled with the Tao.
+The master programmer moves from program to program without fear.  No change in management can harm him.  He will not be fired, even if the project is canceled. Why is this?  He is filled with the Tao.
 		-- Geoffrey James, "The Tao of Programming"
 %
 The nice thing about standards is that there are so many of them to choose from.
@@ -713,8 +710,6 @@ When madness becomes a method, the madman becomes a specialist.
 %
 Live today so that tomorrow you will like to remember yesterday.
 %
-World domination is such an ugly phrase. I prefer to call it world optimisation.
-%
 I have noticed even people who claim everything is predestined, and that we can do nothing to change it, look before they cross the road.
 %
 That which can be destroyed by the truth should be.
@@ -792,13 +787,9 @@ Do not think that fairness to all sides means balancing yourself evenly between 
 %
 Perfection is achieved not when there is nothing left to add, but when there is nothing left to take away.
 %
-If you can lighten your burden you must do so. There is no straw that lacks the power to break your back.
-%
-These then are twelve virtues of rationality:
-
-Curiosity, relinquishment, lightness, evenness, argument, empiricism, simplicity, humility, perfectionism, precision, scholarship, and the void.
-%
 The map is not the territory, but you can't fold up the territory and put it in your glove compartment.
+%
+"The map is not the territory" is not the territory.
 %
 People want to think there is some huge conspiracy run by evil geniuses.  The reality is actually much more horrifying.  The people running the show aren't evil geniuses.  They are just as stupid as the rest of us.
 %
@@ -811,7 +802,6 @@ All of this has happened before and will happen again.
 We look at the present through a rear-view mirror. We march backwards into the future.
 %
 They shall not pass!
-
 %
 Everything was beautiful and nothing hurt.
 %
@@ -828,8 +818,6 @@ dragging themselves through the negro streets at dawn looking for an angry fix,
 angelheaded hipsters burning for the ancient heavenly connection to the starry dynamo in the machinery of night
 %
 I kissed a girl, and I liked it.
-%
-'Cause darling I'm a nightmare dressed like a daydream
 %
 And that's only the tip of the ice-cube!
 %
@@ -924,7 +912,7 @@ Says Gary Snyder, “Three-fourths of philosophy and literature is the talk of p
 Hung Mung, Television Personality
 
 Not claiming to know anything, Primal Chaos reveals everything to informed curiosity —
-though not usually in a very orderly format. In becoming acquainted with this sage who knows nothing and does not care tht he does not know anything, we can learn enough to accomplish nearly anything.
+though not usually in a very orderly format. In becoming acquainted with this sage who knows nothing and does not care that he does not know anything, we can learn enough to accomplish nearly anything.
 Discordians say you can get a look at Hung Mung by getting stoned and tuning your television to a channel that is not broadcasting. His dancing image will become more and more visible the harder you look for it. And having no sponsors, Hung Mung — they say — is never interrupted by commercials. Zenarchists are skeptical of that much.
 %
 The first rule of signaling is cheat.
@@ -973,8 +961,7 @@ enemies, in order to express enmity. The ideas Earthlings held didn’t
 matter for hundreds of thousands of years, since they couldn’t do much
 about them anyway. Ideas might as well be badges as anything.
 %
-Sometimes magic is just someone spending more time on something than
-anyone else might reasonably expect
+Sometimes magic is just someone spending more time on something than anyone else might reasonably expect
 %
 On the error of failing to appreciate your opponents three-dimensionality:
 
@@ -1052,7 +1039,6 @@ illusion of knowledge.
 
 -- Daniel J. Boorstin
 %
-
 "Stupider" for a time might not have been a real word, but it
 certainly points where it’s supposed to. The other day my sister used
 the word "deoffensify". It’s not a real word, but that didn’t make it
@@ -1064,7 +1050,6 @@ sure words mean the same thing to you and your audience.
 
 -- Michael Kayin OReilly
 %
-
 "Programmers waste enormous amounts of time thinking about, or
 worrying about, the speed of noncritical parts of their programs, and
 these attempts at efficiency actually have a strong negative impact
@@ -1097,7 +1082,7 @@ Think for yourself, schmuck!
 %
 You may be 38 years old, as I happen to be. And one day, some great opportunity stands before you and calls you to stand up for some great principle, some great issue, some great cause. And you refuse to do it because you are afraid... You refuse to do it because you want to live longer... You're afraid that you will lose your job, or you are afraid that you will be criticized or that you will lose your popularity, or you're afraid someone will stab you, or shoot at you or bomb your house; so you refuse to take the stand.
 
-Well, you may go on and live until you are 90, but you're just as dead at 38 as you would be at 90. And the cessation of breating in your life is but the belated announcement of an earlier death of the spirit.
+Well, you may go on and live until you are 90, but you're just as dead at 38 as you would be at 90. And the cessation of breathing in your life is but the belated announcement of an earlier death of the spirit.
 %
 We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you're dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
 %
@@ -1160,7 +1145,7 @@ Occam was never the target of a conspiracy.
 Do I contradict myself? Very well, then I contradict myself, I am large, I contain multitudes.
  --Walt Whitman
 %
-It is a grave and serious and an enourmous mistake to take oneself too seriously.
+It is a grave and serious and an enormous mistake to take oneself too seriously.
  --Tom Robbins
 %
 Optimists are right. So are pessimists.
@@ -1174,7 +1159,7 @@ Every man and every woman is a star.
 We are all in the gutter, but some of us are looking at the stars.
  --Oscar Wilde
 %
-Life moves pretty fast, if you don’t stop to look around once in a while you could miss it.”
+Life moves pretty fast, if you don’t stop to look around once in a while you could miss it.
  --St. Ferris
 %
 One should respect public opinion in so far as it is necessary to avoid starvation and keep out of prison, but anything beyond this is voluntary submission to an unnecessary tyranny.
@@ -1283,8 +1268,6 @@ Relationships don't need to be mass-produced to factory specifications; we can g
 Sometimes the problem is to discover what the problem is.
  -- Gordon Clegg
 %
-Adding people to a late software project makes it later.
-%
 It is on the speaker to be heard, not the listener to hear.
 %
 Thinking is also work
@@ -1326,16 +1309,17 @@ People used to talk about the internet as a place. The information superhighway.
 %
 The great Norwegian mathematician Niels Henrik Abel was once asked how he had become so good at mathematics. He replied that it was “by studying the masters, not their pupils”.
 %
-
-
-    A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
+A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
 
     (John Gall)
-
 %
-
-
-    Technology is dominated by two types of people, those who understand what they do not manage and those who manage what they do not understand.
-
+Technology is dominated by two types of people, those who understand what they do not manage and those who manage what they do not understand.
 %
 God may judge you but His sins outnumber your own.
+%
+Dawson’s first law of computing: O(n^2) is the sweet spot of badly scaling algorithms: fast enough to make it into production, but slow enough to make things fall down once it gets there
+%
+“Essentially, all models are wrong, but some are useful.”
+  --George Box
+%
+You have to keep a dozen of your favorite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say, 'How did he do it? He must be a genius!'” -Richard Feynman 
